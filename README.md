@@ -44,13 +44,13 @@ I'm currently learning DevOps and Cloud Computing.
 
 ## 📂 Featured Projects
 
-### 90 Days of DevOps
+### 90 DaysofDevOps
 Daily DevOps tasks, notes and hands-on practice.
 
-### Shell Scripts
+### Shell-Scripts
 Collection of Bash scripts created during learning.
 
-### DevOps Notes
+### DevOps-Notes
 Linux, Git and DevOps notes and cheat sheets.
 
 ---
