@@ -1,16 +1,73 @@
 ## Hi there 👋
 
-<!--
-**Nehasahu20/NehaSahu20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Neha Sahu 👋
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently learning DevOps and Cloud Computing.
+
+🌱 Learning Linux, Git, GitHub, Shell Scripting and AWS
+
+💻 Working on the 90 Days of DevOps Challenge
+
+📚 Building hands-on projects and improving my practical skills every day
+
+---
+
+## 🎯 Current Focus
+
+- Linux Administration
+- Git & GitHub
+- Shell Scripting
+- AWS Cloud
+- Docker
+- CI/CD
+
+---
+
+## 🛠️ Skills & Tools
+
+### Operating Systems
+- Linux (Ubuntu)
+
+### Version Control
+- Git
+- GitHub
+
+### Scripting
+- Bash Shell Scripting
+
+### Cloud & DevOps
+- AWS (Learning)
+- Docker (Learning)
+- Jenkins (Learning)
+
+---
+
+## 📂 Featured Projects
+
+### 90 Days of DevOps
+Daily DevOps tasks, notes and hands-on practice.
+
+### Shell Scripts
+Collection of Bash scripts created during learning.
+
+### DevOps Notes
+Linux, Git and DevOps notes and cheat sheets.
+
+---
+
+## 📫 Connect With Me
+
+GitHub:
+https://github.com/Nehasahu20
+
+LinkedIn:
+https://www.linkedin.com/in/neha-s-409ba835b 
+
+---
+
+⭐ Learning DevOps 
+
+
+
