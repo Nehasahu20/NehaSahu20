@@ -96,13 +96,6 @@ I'm a passionate DevOps learner currently focused on building strong foundations
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nehasahu20&theme=tokyonight" />
-</p>
-
----
 
 ## 📂 Featured Projects
 
