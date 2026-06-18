@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Neha Sahu</h1>
 
-<marque><h3 align="center">
+<h3 align="center">
 🚀 DevOps & Cloud Enthusiast | Linux | AWS | Docker | Kubernetes
-</h3> </marque>
+</h3> 
 
 <p align="center">
 Building practical DevOps skills through hands-on projects and continuous learning.
